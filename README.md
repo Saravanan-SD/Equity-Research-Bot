@@ -1,6 +1,6 @@
 # News Research Tool
 
-![Working](https://example.com/working_image.png)
+![Working](https://github.com/Saravanan-SD/Equity-Research-Bot/blob/main/Screenshot%20of%20app.png)
 
 ## Introduction
 This is a News Research Tool built using Streamlit and Langchain, a library for natural language processing tasks. The tool allows users to input URLs of news articles, ask questions related to the content of these articles, and receive answers along with relevant sources.
