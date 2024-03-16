@@ -11,7 +11,7 @@ from langchain.vectorstores import FAISS
 from dotenv import load_dotenv
 
 load_dotenv()
-llm=OpenAI(temperature=0.9, max_tokens=500)
+llm=OpenAI(model='gpt-3.5-turbo-instruct',temperature=0.9, max_tokens=500)
 st.title("News Research Tool")
 st.sidebar.title("News Article URLs")
 
