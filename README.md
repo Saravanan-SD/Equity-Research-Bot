@@ -44,7 +44,7 @@ This is a News Research Tool built using Streamlit and Langchain, a library for 
    - https://www.indiatoday.in/business/story/us-investigating-bribery-allegations-against-adani-group-gautam-adani-2515679-2024-03-16
 
 ## Contact
-For any inquiries or support, please feel free to contact us:
+For any inquiries or support, please feel free to contact me:
 
 - Email: [saravanansd634@gmail.com](mailto:saravanansd634@gmail.com)
 - LinkedIn: [Saravanan S](https://www.linkedin.com/in/sdsaravanan/)
